@@ -86,7 +86,7 @@ class vk_bot():
         
 
 email = '+79165709948'
-password = 'asddsa123Q'
+password = '*'
 myid = '164266801'
 proxy = None
 
